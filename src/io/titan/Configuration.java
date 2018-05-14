@@ -50,7 +50,7 @@ public final class Configuration {
 	/**
 	 * A string which indicates the Client's name.
 	 */
-	public static final String CLIENT_NAME = "Astraeus";
+	public static final String CLIENT_NAME = "TitanScape";
 
 	/**
 	 * Dumps map region images when new regions are loaded.
@@ -87,8 +87,8 @@ public final class Configuration {
 	 * Used to repack indexes Index 1 = Models Index 2 = Animations Index 3 =
 	 * Sounds/Music Index 4 = Maps
 	 */
-	public static boolean repackIndexOne = false, repackIndexTwo = false, repackIndexThree = false,
-			repackIndexFour = false;
+	//public static boolean repackIndexOne = true, repackIndexTwo = true, repackIndexThree = true, repackIndexFour = true;
+	public static boolean repackIndexOne = false, repackIndexTwo = false, repackIndexThree = false, repackIndexFour = false;
 
 	/**
 	 * Dump Indexes Index 1 = Models Index 2 = Animations Index 3 = Sounds/Music

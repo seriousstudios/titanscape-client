@@ -1,4 +1,4 @@
-package net.astraeus.scene.graphic;
+package net.titan.scene.graphic;
 import io.titan.draw.Rasterizer2D;
 import io.titan.draw.Rasterizer3D;
 

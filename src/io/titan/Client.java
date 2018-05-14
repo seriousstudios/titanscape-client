@@ -68,9 +68,9 @@ import io.titan.util.MouseDetection;
 import io.titan.util.PacketConstants;
 import io.titan.util.SkillConstants;
 import io.titan.util.StringUtils;
-import net.astraeus.cache.graphics.RSFont;
-import net.astraeus.net.protocol.ProtocolConstants;
-import net.astraeus.scene.graphic.Fog;
+import net.titan.cache.graphics.RSFont;
+import net.titan.net.protocol.ProtocolConstants;
+import net.titan.scene.graphic.Fog;
 
 public class Client extends GameApplet {
 
@@ -2688,8 +2688,8 @@ public class Client extends GameApplet {
 		socketStream = null;
 		loggedIn = false;
 		loginScreenState = 0;
-		myUsername = "freyr";
-		myPassword = "test123";
+		myUsername = "Marcus";
+		myPassword = "";
 		unlinkCaches();
 		scene.initToNull();
 		for (int i = 0; i < 4; i++)
@@ -13391,8 +13391,8 @@ public class Client extends GameApplet {
 		constructedViewport = false;
 		oriented = false;
 		anInt1171 = 1;
-		myUsername = "freyr";
-		myPassword = "test123";
+		myUsername = "Marcus";
+		myPassword = "";
 		genericLoadingError = false;
 		reportAbuseInterfaceID = -1;
 		spawns = new Deque();

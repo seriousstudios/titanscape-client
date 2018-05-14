@@ -1,4 +1,4 @@
-package net.astraeus.cache.graphics;
+package net.titan.cache.graphics;
 import java.awt.Color;
 
 import io.titan.cache.FileArchive;

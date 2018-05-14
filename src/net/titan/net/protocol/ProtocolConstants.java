@@ -1,4 +1,4 @@
-package net.astraeus.net.protocol;
+package net.titan.net.protocol;
 
 /**
  * Class containing protocol-related constants.
