@@ -1,6 +1,6 @@
 package net.astraeus.scene.graphic;
-import io.astraeus.draw.Rasterizer2D;
-import io.astraeus.draw.Rasterizer3D;
+import io.titan.draw.Rasterizer2D;
+import io.titan.draw.Rasterizer3D;
 
 public class Fog {    
     /**

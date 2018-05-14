@@ -1,11 +1,11 @@
 package net.astraeus.cache.graphics;
 import java.awt.Color;
 
-import io.astraeus.cache.FileArchive;
-import io.astraeus.cache.graphics.GameFont;
-import io.astraeus.cache.graphics.Sprite;
-import io.astraeus.draw.Rasterizer2D;
-import io.astraeus.io.Buffer;
+import io.titan.cache.FileArchive;
+import io.titan.cache.graphics.GameFont;
+import io.titan.cache.graphics.Sprite;
+import io.titan.draw.Rasterizer2D;
+import io.titan.io.Buffer;
 
 public class RSFont extends Rasterizer2D {
 
